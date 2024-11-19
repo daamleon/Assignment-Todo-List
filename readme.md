@@ -45,6 +45,12 @@ This project is a simple Todo application written in Go, featuring unit tests us
 ### Running Tests
 
 - Execute the following command to run the tests:
+
+```bash
+  ginkgo ./...
+```
+
+- Or
   ```bash
   go test ./...
   ```
