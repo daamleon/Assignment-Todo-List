@@ -19,7 +19,7 @@ This project is a simple Todo application written in Go, featuring unit tests us
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/daamleon/Assignment-Unit-Test-Todo-List.git
 
    ```
 
