@@ -36,6 +36,12 @@ This project is a simple Todo application written in Go, featuring unit tests us
    go mod tidy
    ```
 
+4. Install Ginkgo and Gomega:
+   ```bash
+   go install github.com/onsi/ginkgo/v2/ginkgo@latest
+   go get github.com/onsi/gomega/...
+   ```
+
 ### Running Tests
 
 - Execute the following command to run the tests:
